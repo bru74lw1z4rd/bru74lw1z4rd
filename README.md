@@ -1,8 +1,9 @@
 ### Hi there! 👋
 
 **You can contact me via:**
-* Discord - BrutalWizard#3319  |
-* E-Mail - bru74lw1z4rd@gmail.com | 
+* E-Mail - bru74lw1z4rd@gmail.com 
+* Discord - BrutalWizard#3319  
 * Telegram - @BrutalWizard
+* Reddit - bru74lw1z4rd
 
 Also my [StackOverflow](https://stackoverflow.com/users/9371692/brutalwizard)
