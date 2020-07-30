@@ -1,6 +1,6 @@
-### Hi there! I'm BrutalWizard 👋
+### Hi there! 👋
 
-You can contact me via:
+**You can contact me via:**
 * Discord - BrutalWizard#3319  |
 * E-Mail - bru74lw1z4rd@gmail.com | 
 * Telegram - @BrutalWizard
