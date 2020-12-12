@@ -2,7 +2,7 @@
 
 **You can contact me via:**
 * E-Mail - bru74lw1z4rd@gmail.com 
-* Discord - BrutalWizard#1111
+* Discord - BrutalWizard#0001
 * Telegram - @BrutalWizard
 * Reddit - bru74lw1z4rd
 
