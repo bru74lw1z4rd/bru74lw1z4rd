@@ -1,8 +1,8 @@
 <h1 align="center">Hi there! 👋, I'm BrutalWizard</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bru74lw1z4rd&label=Profile%20views&color=28a464&style=flat" alt="suburbanno" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bru74lw1z4rd&label=Profile%20views&color=28a464&style=flat" alt="bru74lw1z4rd" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bru74lw1z4rd&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="bru74lw1z4rd" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bru74lw1z4rd&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="bru74lw1z4rd"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bru74lw1z4rd&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en" alt="bru74lw1z4rd"/></p>
 
