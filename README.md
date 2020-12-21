@@ -1,12 +1,10 @@
-### Hi there! 👋
+<h1 align="center">Hi there! 👋, I'm BrutalWizard</h1>
 
-**You can contact me via:**
-* E-Mail - bru74lw1z4rd@gmail.com 
-* Discord - BrutalWizard#0001
-* Telegram - @BrutalWizard
-* Reddit - bru74lw1z4rd
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bru74lw1z4rd&label=Profile%20views&color=28a464&style=flat" alt="suburbanno" /> </p>
 
-Also my [StackOverflow](https://stackoverflow.com/users/9371692/brutalwizard)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bru74lw1z4rd&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="bru74lw1z4rd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bru74lw1z4rd&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en" alt="bru74lw1z4rd"/></p>
 
 #
 
