@@ -4,7 +4,11 @@
 
 - 👨‍💻 My Personal [site](https://bru74lw1z4rd.github.io/BrutalWizard/)
 
-- 📫 How to reach me **bru74lw1z4rd@gmail.com**
+- 🗿 Telegram - **@brutalwizard**
+
+- 🖥 Discord - **BrutalWizard#0001**
+
+- 📫 Email - **bru74lw1z4rd@gmail.com**
 
 #
 
