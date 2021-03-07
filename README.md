@@ -7,7 +7,8 @@
     <img alt="Reddit" src="https://img.shields.io/badge/Reddit%20-%20BrutalWizard.svg?color=FF4500&style=for-the-badge&logo=reddit&logoColor=FFFFFF&link=https://www.reddit.com/user/bru74lw1z4rd/"/>
     <img alt="Steam" src="https://img.shields.io/badge/Steam%20-%20BrutalWizard.svg?color=000000&style=for-the-badge&logo=steam&logoColor=FFFFFF&link=https://steamcommunity.com/id/BrutalWizard"/>
     <br>
-        <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%20BrutalWizard.svg?color=E4405F&style=for-the-badge&logo=instagram&logoColor=FFFFFF&link=https://www.instagram.com/bru74lw1z4rd/"/>
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram%20-%20BrutalWizard.svg?color=66a3ff&style=for-the-badge&logo=telegram&logoColor=FFFFFF&link=https://t.me/brutalwizard"/>
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%20BrutalWizard.svg?color=E4405F&style=for-the-badge&logo=instagram&logoColor=FFFFFF&link=https://www.instagram.com/bru74lw1z4rd/"/>
     <img alt="StackOverflow" src="https://img.shields.io/badge/Stackoverflow%20-%20BrutalWizard.svg?color=FE7A16&style=for-the-badge&logo=stackoverflow&logoColor=FFFFFF&link=https://stackoverflow.com/users/9371692/brutalwizard"/>
 
 </p>
