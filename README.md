@@ -14,6 +14,12 @@
 
 <p align="center">•─────────ღ :hibiscus: ღ─────────•</p>
 
+<br>
+<p align="center">If you want to hire me you should visit my <a href="https://bru74lw1z4rd.github.io/BrutalWizard/">personal site</a>.</p>
+<p align="center">If for some reason you want to start friendship with me. You should visit <a href="https://privateweb.software">PrivateWeb</a>.</p>
+<p align="center">If you need to contact me for another reason you can write to me by <a href="mailto:bru74lw1z4rd@gmail.com">mail.</a></p> 
+<br>
+
 <h3 align="center">Programming Languages And Tools</h3>
 <p align="center">
     <img alt="Qt" src="https://img.shields.io/badge/Qt%20-%20BrutalWizard.svg?color=41CD52&style=for-the-badge&logo=qt&logoColor=FFFFFF&link=https://qt.io/"/>
