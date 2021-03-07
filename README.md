@@ -45,9 +45,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=bru74lw1z4rd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=0&" alt="bru74lw1z4rd"/>
 </p>
 
-<h3 align="center">My Discord Bot</h3>
+<h3 align="center">My Non-Open Source Projects</h3>
 <p align="center">
-    <a align="center" href="https://top.gg/bot/719310779656044567">
-        <img alt="Russian Doomer" src="https://top.gg/api/widget/719310779656044567.svg"/>
-    </a>    
+    <img alt="Russian Doomer" src="https://img.shields.io/badge/Russian Doomer%20-%20BrutalWizard.svg?color=7289DA&style=for-the-badge&logo=discord&logoColor=FFFFFF&link=https://top.gg/bot/719310779656044567"/>
 </p>
