@@ -1,6 +1,6 @@
-<h1 align="center">Hi there! 👋 I'm BrutalWizard</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bru74lw1z4rd&label=Profile%20views&color=28a464&style=flat" alt="bru74lw1z4rd" /> </p>
+<h2 align="center"><strong>Welcome to my profile!</strong></h2>
+<p align="center"><img width="40" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bru74lw1z4rd&label=Profile%20views&color=28a464&style=flat" alt="bru74lw1z4rd" /> </p>
 
 - 👨‍💻 My Personal [site](https://bru74lw1z4rd.github.io/BrutalWizard/)
 
@@ -12,10 +12,10 @@
 
 #
 
-**My discord bot 🤖**
+<p><b>🤖 My Discord Bot</b></p>
 
 <a href="https://top.gg/bot/719310779656044567">
-    <img src="https://top.gg/api/widget/719310779656044567.svg" alt="Russian Doomer" />
+    <img alt="Russian Doomer" src="https://top.gg/api/widget/719310779656044567.svg"/>
 </a>
 
 #
