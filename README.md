@@ -37,15 +37,17 @@
 
 <br>
 
+<h3 align="center">My Non-Open Source Projects</h3>
+<p align="center">
+    <img alt="Russian Doomer" src="https://img.shields.io/badge/Russian Doomer%20-%20BrutalWizard.svg?color=7289DA&style=for-the-badge&logo=discord&logoColor=FFFFFF&link=https://top.gg/bot/719310779656044567"/>
+</p>
+
+<br>
+
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bru74lw1z4rd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=0&locale=en&layout=compact" alt="bru74lw1z4rd"/>
 </p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=bru74lw1z4rd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=0&" alt="bru74lw1z4rd"/>
-</p>
-
-<h3 align="center">My Non-Open Source Projects</h3>
-<p align="center">
-    <img alt="Russian Doomer" src="https://img.shields.io/badge/Russian Doomer%20-%20BrutalWizard.svg?color=7289DA&style=for-the-badge&logo=discord&logoColor=FFFFFF&link=https://top.gg/bot/719310779656044567"/>
 </p>
