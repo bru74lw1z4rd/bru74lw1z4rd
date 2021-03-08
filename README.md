@@ -3,13 +3,25 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bru74lw1z4rd&label=Profile%20views&color=b380ff&style=flat-square" alt="bru74lw1z4rd" /> </p>
 
 <p align="center">
-    <img alt="VK" src="https://img.shields.io/badge/VK%20-%20BrutalWizard.svg?color=4680C2&style=for-the-badge&logo=vk&logoColor=FFFFFF&link=https://vk.com/brutalwizard"/>
-    <img alt="Reddit" src="https://img.shields.io/badge/Reddit%20-%20BrutalWizard.svg?color=FF4500&style=for-the-badge&logo=reddit&logoColor=FFFFFF&link=https://www.reddit.com/user/bru74lw1z4rd/"/>
-    <img alt="Steam" src="https://img.shields.io/badge/Steam%20-%20BrutalWizard.svg?color=000000&style=for-the-badge&logo=steam&logoColor=FFFFFF&link=https://steamcommunity.com/id/BrutalWizard"/>
+    <a href="https://vk.com/brutalwizard">
+        <img alt="VK" src="https://img.shields.io/badge/VK%20-%20BrutalWizard.svg?color=4680C2&style=for-the-badge&logo=vk&logoColor=FFFFFF"/>
+    </a>
+    <a href="https://www.reddit.com/user/bru74lw1z4rd/">
+        <img alt="Reddit" src="https://img.shields.io/badge/Reddit%20-%20BrutalWizard.svg?color=FF4500&style=for-the-badge&logo=reddit&logoColor=FFFFFF"/>
+    </a>
+    <a href="https://steamcommunity.com/id/BrutalWizard">
+        <img alt="Steam" src="https://img.shields.io/badge/Steam%20-%20BrutalWizard.svg?color=000000&style=for-the-badge&logo=steam&logoColor=FFFFFF"/>
+    </a>
     <br>
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram%20-%20BrutalWizard.svg?color=66a3ff&style=for-the-badge&logo=telegram&logoColor=FFFFFF&link=https://t.me/brutalwizard"/>
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%20BrutalWizard.svg?color=E4405F&style=for-the-badge&logo=instagram&logoColor=FFFFFF&link=https://www.instagram.com/bru74lw1z4rd/"/>
-    <img alt="StackOverflow" src="https://img.shields.io/badge/Stackoverflow%20-%20BrutalWizard.svg?color=FE7A16&style=for-the-badge&logo=stackoverflow&logoColor=FFFFFF&link=https://stackoverflow.com/users/9371692/brutalwizard"/>
+    <a href="https://t.me/brutalwizard">
+        <img alt="Telegram" src="https://img.shields.io/badge/Telegram%20-%20BrutalWizard.svg?color=66a3ff&style=for-the-badge&logo=telegram&logoColor=FFFFFF"/>
+    </a>
+    <a href="https://www.instagram.com/bru74lw1z4rd/">
+        <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%20BrutalWizard.svg?color=E4405F&style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
+    </a>
+    <a href="https://stackoverflow.com/users/9371692/brutalwizard">
+        <img alt="StackOverflow" src="https://img.shields.io/badge/Stackoverflow%20-%20BrutalWizard.svg?color=FE7A16&style=for-the-badge&logo=stackoverflow&logoColor=FFFFFF"/>
+    </a>
 </p>
 
 <p align="center">•─────────ღ :hibiscus: ღ─────────•</p>
@@ -17,13 +29,13 @@
 <br>
 <p align="center">If you want to hire me you should visit my <a href="https://bru74lw1z4rd.github.io/BrutalWizard/">personal site</a>.</p>
 <p align="center">If for some reason you want to start friendship with me. You should visit <a href="https://privateweb.software">PrivateWeb</a>.</p>
-<p align="center">If you need to contact me for another reason you can write to me by <a href="mailto:bru74lw1z4rd@gmail.com">mail.</a></p> 
+<p align="center">If you need to contact me for another reason you can write to me by <a href="mailto:bru74lw1z4rd@gmail.com">mail</a>.</p> 
 <br>
 
 <h3 align="center">Programming Languages And Tools</h3>
 <p align="center">
-    <img alt="Qt" src="https://img.shields.io/badge/Qt%20-%20BrutalWizard.svg?color=41CD52&style=for-the-badge&logo=qt&logoColor=FFFFFF&link=https://qt.io/"/>
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%20BrutalWizard.svg?color=00599C&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF&link=https://isocpp.org/"/>
+    <img alt="Qt" src="https://img.shields.io/badge/Qt%20-%20BrutalWizard.svg?color=41CD52&style=for-the-badge&logo=qt&logoColor=FFFFFF"/>
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%20BrutalWizard.svg?color=00599C&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/>
     <img alt="C" src="https://img.shields.io/badge/C%20-%20BrutalWizard.svg?color=7e97b4&style=for-the-badge&logo=c&logoColor=FFFFFF"/>
     <br>
     <img alt="C#" src="https://img.shields.io/badge/C Sharp%20-%20BrutalWizard.svg?color=009933&style=for-the-badge&logo=c sharp&logoColor=FFFFFF"/>
@@ -39,7 +51,9 @@
 
 <h3 align="center">My Non-Open Source Projects</h3>
 <p align="center">
-    <img alt="Russian Doomer" src="https://img.shields.io/badge/Russian Doomer%20-%20BrutalWizard.svg?color=7289DA&style=for-the-badge&logo=discord&logoColor=FFFFFF&link=https://top.gg/bot/719310779656044567"/>
+    <a href="https://top.gg/bot/719310779656044567">
+        <img alt="Russian Doomer" src="https://img.shields.io/badge/Russian Doomer%20-%20BrutalWizard.svg?color=7289DA&style=for-the-badge&logo=discord&logoColor=FFFFFF"/>
+    </a>
 </p>
 
 <br>
