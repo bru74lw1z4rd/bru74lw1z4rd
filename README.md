@@ -38,7 +38,7 @@
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%20BrutalWizard.svg?color=00599C&style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF"/>
     <img alt="C" src="https://img.shields.io/badge/C%20-%20BrutalWizard.svg?color=7e97b4&style=for-the-badge&logo=c&logoColor=FFFFFF"/>
     <br>
-    <img alt="C#" src="https://img.shields.io/badge/C Sharp%20-%20BrutalWizard.svg?color=009933&style=for-the-badge&logo=c sharp&logoColor=FFFFFF"/>
+    <img alt="C#" src="https://img.shields.io/badge/C%20Sharp%20-%20BrutalWizard.svg?color=009933&style=for-the-badge&logo=c%20sharp&logoColor=FFFFFF"/>
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%20BrutalWizard.svg?color=3776AB&style=for-the-badge&logo=python&logoColor=FFFFFF"/>    
     <img alt="Java" src="https://img.shields.io/badge/Java%20-%20BrutalWizard.svg?color=cc2900&style=for-the-badge&logo=java&logoColor=FFFFFF"/>
     <br>
